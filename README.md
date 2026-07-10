@@ -5,7 +5,6 @@ This project focuses on preparing raw e-commerce product data for marketing anal
 
 The key deliverable is a cleaned dataset with a new **`short_title`** column; a concise (30–50 character) version of each product title, designed to improve SEO and readability.
 
----
 
 ## Key Improvements
 
