@@ -1,7 +1,7 @@
 # Product Data Cleaning & SEO Title Optimization
 
 ## Project Overview
-This project focuses on preparing raw e-commerce product data for marketing analysis and search engine optimization. The dataset contained inconsistent formats, missing values, duplicate records, and overly long product titles – all of which were cleaned and standardized using **Microsoft Excel**.
+This project focuses on preparing raw e-commerce product data for marketing analysis and search engine optimization. The dataset contained inconsistent formats, missing values, duplicate records, and overly long product titles, all of which were cleaned and standardized using **Microsoft Excel**.
 
 The key deliverable is a cleaned dataset with a new **`short_title`** column; a concise (30–50 character) version of each product title, designed to improve SEO and readability.
 
